@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="355fdb06-5d98-408e-a4c6-20c438267732" name="Changes" comment="init" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+    <option name="OPTIONS">
+      <set>
+        <option value="ROOT" />
+      </set>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ncBAxqt8AGUBYDbD8dwdn6fOXM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/dev/java-lotto-7&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="subway.Application" />
+      <module name="java-subway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="subway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application2" />
+      <module name="java-subway" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="355fdb06-5d98-408e-a4c6-20c438267732" name="Changes" comment="" />
+      <created>1729262344960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729262344960</updated>
+      <workItem from="1729262346455" duration="3108000" />
+      <workItem from="1729434835784" duration="10664000" />
+      <workItem from="1729594386554" duration="768000" />
+      <workItem from="1729848711940" duration="9372000" />
+      <workItem from="1730022282763" duration="4000" />
+      <workItem from="1730112922780" duration="1353000" />
+      <workItem from="1730117932028" duration="5000" />
+      <workItem from="1730208688976" duration="83000" />
+      <workItem from="1730639910152" duration="9369000" />
+      <workItem from="1730727026164" duration="4251000" />
+      <workItem from="1730788472257" duration="1522000" />
+      <workItem from="1731418658849" duration="3394000" />
+      <workItem from="1731476402968" duration="1223000" />
+      <workItem from="1731513143275" duration="4292000" />
+    </task>
+    <task id="LOCAL-00001" summary="plan - 지하철 시스템 구현 계획 readme 작성 1차">
+      <created>1730697598399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730697598399</updated>
+    </task>
+    <task id="LOCAL-00002" summary="커밋테스트">
+      <created>1730734003736</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730734003736</updated>
+    </task>
+    <task id="LOCAL-00003" summary="커밋테스트">
+      <created>1730734340338</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730734340338</updated>
+    </task>
+    <task id="LOCAL-00004" summary="docs: readme 작성">
+      <created>1731516984877</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731516984877</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat(Domain): Station, Route, Line 추가">
+      <created>1731517148491</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731517148491</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat(Domain): SubwaySystem 추가">
+      <created>1731517175508</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731517175508</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: PathFinder 추가, 최단 탐색에 경로 혹은 시간을 선택할 수 있도록 함">
+      <created>1731517371127</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731517371127</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: 경로 출력">
+      <created>1731517386377</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731517386377</updated>
+    </task>
+    <task id="LOCAL-00009" summary="init">
+      <created>1731517400702</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731517400702</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="plan - 지하철 시스템 구현 계획 readme 작성 1차" />
+    <MESSAGE value="커밋테스트" />
+    <MESSAGE value="docs: readme 작성" />
+    <MESSAGE value="feat(Domain): Station, Route, Line 추가" />
+    <MESSAGE value="feat(Domain): SubwaySystem 추가" />
+    <MESSAGE value="feat: PathFinder 추가, 최단 탐색에 경로 혹은 시간을 선택할 수 있도록 함" />
+    <MESSAGE value="feat: 경로 출력" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+</project>
