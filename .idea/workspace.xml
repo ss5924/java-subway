@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="355fdb06-5d98-408e-a4c6-20c438267732" name="Changes" comment="init" />
+    <list default="true" id="355fdb06-5d98-408e-a4c6-20c438267732" name="Changes" comment="feat: path 출력">
+      <change afterPath="$PROJECT_DIR$/src/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +107,7 @@
       <workItem from="1730788472257" duration="1522000" />
       <workItem from="1731418658849" duration="3394000" />
       <workItem from="1731476402968" duration="1223000" />
-      <workItem from="1731513143275" duration="4292000" />
+      <workItem from="1731513143275" duration="5134000" />
     </task>
     <task id="LOCAL-00001" summary="plan - 지하철 시스템 구현 계획 readme 작성 1차">
       <created>1730697598399</created>
@@ -168,7 +172,49 @@
       <option name="project" value="LOCAL" />
       <updated>1731517400702</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="initial commit">
+      <created>1731517670372</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731517670372</updated>
+    </task>
+    <task id="LOCAL-00011" summary="docs: readme 작성">
+      <created>1731517699407</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1731517699407</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat(domain): station, route, line 추가">
+      <created>1731517775529</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1731517775529</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat(domain): SubwaySystem 추가">
+      <created>1731517793180</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1731517793180</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat: pathfinder 개발, 탐색에 거리or시간 설정할 수 있게 개발">
+      <created>1731517838090</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1731517838090</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat: path 출력">
+      <created>1731517850803</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1731517850803</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +225,34 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -188,12 +261,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="plan - 지하철 시스템 구현 계획 readme 작성 1차" />
     <MESSAGE value="커밋테스트" />
-    <MESSAGE value="docs: readme 작성" />
     <MESSAGE value="feat(Domain): Station, Route, Line 추가" />
     <MESSAGE value="feat(Domain): SubwaySystem 추가" />
     <MESSAGE value="feat: PathFinder 추가, 최단 탐색에 경로 혹은 시간을 선택할 수 있도록 함" />
     <MESSAGE value="feat: 경로 출력" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="docs: readme 작성" />
+    <MESSAGE value="feat(domain): station, route, line 추가" />
+    <MESSAGE value="feat(domain): SubwaySystem 추가" />
+    <MESSAGE value="feat: pathfinder 개발, 탐색에 거리or시간 설정할 수 있게 개발" />
+    <MESSAGE value="feat: path 출력" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: path 출력" />
   </component>
 </project>
